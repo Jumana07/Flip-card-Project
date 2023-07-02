@@ -53,4 +53,89 @@ To use the flip card code in your project, follow these steps:
 
 Please note that the provided code serves as a basic template for a flip card and can be further customized and expanded to suit your specific requirements.
 
+##Documentation for Flip-Card Project
 
+# Flip Card Project
+
+## Overview
+The Flip Card Project is a web application developed by Jumana Haseen. The project allows users to create and customize flip cards, which can be used for various purposes such as flashcards, quizzes, or informational cards. This documentation provides an overview of the project structure, dependencies, customization, and usage instructions.
+
+## Project Structure
+The project structure for the Flip Card Project is as follows:
+
+```
+Flip-card-Project/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── main.js
+│   └── flip-card.js
+└── images/
+    ├── card1.jpg
+    ├── card2.jpg
+    └── ...
+```
+
+- `index.html`: The main HTML file that serves as the entry point to the web application.
+- `css/style.css`: The CSS file containing custom styles for the web application.
+- `js/main.js`: The main JavaScript file responsible for handling user interactions and controlling the flip cards.
+- `js/flip-card.js`: The JavaScript file containing the flip card class and related functionality.
+- `images/`: A directory containing images used in the flip cards.
+
+## Getting Started
+To use the Flip Card Project locally, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Jumana07/Flip-card-Project.git
+   ```
+
+2. Open the `index.html` file in a web browser.
+
+## Dependencies
+The Flip Card Project utilizes the following dependencies:
+
+- None.
+
+## Customization
+Jumana Haseen has developed the Flip Card Project to provide a basic framework for creating and customizing flip cards. The project's customization options include:
+
+- Customization of the CSS (style.css) file to modify the appearance, colors, and layout of the flip cards.
+- Utilization of the JavaScript files (`main.js` and `flip-card.js`) to add additional functionality or customize the flip card behavior.
+
+## Usage
+To create and interact with flip cards using the Flip Card Project, follow these instructions:
+
+1. Open the `index.html` file in a web browser.
+2. Use the provided form to input the front and back content of the flip card.
+3. Click the "Create Card" button to generate a new flip card.
+4. Hover over a flip card to see the back content.
+5. Click on a flip card to flip it and view the back content.
+6. To create more flip cards, repeat steps 2-5.
+
+## Examples
+Here are some screenshots showcasing the Flip Card Project:
+
+![Flip Card Creation](/path/to/flip-card-creation.png)
+*Description: This screenshot showcases the form for creating flip cards. Users can input the front and back content of the card.*
+
+![Flip Card Interaction](/path/to/flip-card-interaction.png)
+*Description: This screenshot showcases the interaction with a flip card. Hovering over the card reveals the back content, and clicking on the card flips it to display the back content.*
+
+## Contributing
+Contributions to the Flip Card Project are not currently open. However, feel free to contact Jumana Haseen for any feedback or suggestions.
+
+## License
+The Flip Card Project is not currently licensed.
+
+## Resources
+Here are some resources that were helpful during the development of the Flip Card Project:
+
+- CSS Flip Cards: [link](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+
+## Author
+The Flip Card Project was developed by Jumana Haseen.
+
+## Conclusion
+The Flip Card Project provides a simple framework for creating and customizing flip cards
